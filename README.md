@@ -1,0 +1,1 @@
+Developed an ML model to forecast AQI using a dataset of 10,000+ records, achieving 90% accuracy with Logistic Regression, 99% with Random Forest, and 100% with Decision Tree algorithms. Tested 3 different ML algorithms; compared their accuracy. Performed extensive data preprocessing, feature selection, and visualized results with Matplotlib.
